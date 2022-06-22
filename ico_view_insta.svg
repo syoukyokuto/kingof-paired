@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <filter id="長方形_202" x="0" y="0" width="65" height="65" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="btn_top" transform="translate(-301.5 3.5)">
+    <g id="グループ_175" data-name="グループ 175" transform="translate(-4964)" opacity="0.9">
+      <g transform="matrix(1, 0, 0, 1, 5265.5, -3.5)" filter="url(#長方形_202)">
+        <rect id="長方形_202-2" data-name="長方形 202" width="50" height="50" transform="translate(7.5 7.5)" fill="#fff" opacity="0.95"/>
+      </g>
+    </g>
+    <g id="グループ_771" data-name="グループ 771" transform="translate(3 3)">
+      <rect id="長方形_504" data-name="長方形 504" width="9" height="9" transform="translate(315 10)" fill="#333333"/>
+      <rect id="長方形_505" data-name="長方形 505" width="9" height="9" transform="translate(315 21.5)" fill="#333333"/>
+      <rect id="長方形_506" data-name="長方形 506" width="9" height="9" transform="translate(315 33)" fill="#333333"/>
+      <rect id="長方形_507" data-name="長方形 507" width="9" height="9" transform="translate(326.5 10)" fill="#333333"/>
+      <rect id="長方形_508" data-name="長方形 508" width="9" height="9" transform="translate(326.5 21.5)" fill="#333333"/>
+      <rect id="長方形_509" data-name="長方形 509" width="9" height="9" transform="translate(326.5 33)" fill="#333333"/>
+      <rect id="長方形_510" data-name="長方形 510" width="9" height="9" transform="translate(338 10)" fill="#333333"/>
+      <rect id="長方形_511" data-name="長方形 511" width="9" height="9" transform="translate(338 21.5)" fill="#333333"/>
+      <rect id="長方形_512" data-name="長方形 512" width="9" height="9" transform="translate(338 33)" fill="#333333"/>
+    </g>
+  </g>
+</svg>
